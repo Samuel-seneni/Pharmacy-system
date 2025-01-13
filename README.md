@@ -70,11 +70,11 @@ The system is developed for use by either the **Admin** or **Pharmacists**.
 
 #### Admin Login Page
 
-<img src="https://github.com/Varshini-E/Pharmacy-Management-System/blob/master/Screenshots/admin-login.png">
+<img src="https://github.com/Samuel-seneni/Pharmacy-system/blob/master/Screenshots/admin-login.png">
 
 #### Admin DashBoard
 
-<img src="https://github.com/Varshini-E/Pharmacy-Management-System/blob/master/Screenshots/admin-mainpage.png">
+<img src="https://github.com/Samuel-seneni/Pharmacy-system/blob/master/Screenshots/admin-mainpage.png">
 
 ### Pharmacist Capabilities:
 
@@ -87,12 +87,11 @@ The system is developed for use by either the **Admin** or **Pharmacists**.
 
 #### Pharmacist Login Page
 
-<img src="https://github.com/Varshini-E/Pharmacy-Management-System/blob/master/Screenshots/pharmacist-login.png">
+<img src="https://github.com/Samuel-seneni/Pharmacy-system/blob/master/Screenshots/admin-login.png">
 
 #### Pharmacist DashBoard
 
-<img src="https://github.com/Varshini-E/Pharmacy-Management-System/blob/master/Screenshots/pharmacist-mainpage.png">
-
+<img src="https://github.com/Samuel-seneni/Pharmacy-system/blob/master/Screenshots/admin-mainpage.png">
 ***Check out other screenshots showing interface functionality here: [Screenshots](Screenshots)***
 
 ## Database Architecture
@@ -126,11 +125,11 @@ The system is developed for use by either the **Admin** or **Pharmacists**.
 	
 ### ER Diagram
 
-<img src="https://github.com/Varshini-E/Pharmacy-Management-System/blob/master/ER_Diagram.png">
+<img src="https://github.com/Samuel-seneni/Pharmacy-system/blob/master/ER_Diagram.png">
 
 ### Relational Database Model
 
-<img src="https://github.com/Varshini-E/Pharmacy-Management-System/blob/master/RelationalModel.png">
+<img src="https://github.com/Samuel-seneni/Pharmacy-system/blob/master/RelationalModel.png">
 
 ## Additional Information
 
